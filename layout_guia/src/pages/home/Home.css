@@ -1,0 +1,10 @@
+  body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+    margin : 0;
+    background:linear-gradient(72deg, #8ed1cd 1%, #a28ed1 99%);
+      
+  }

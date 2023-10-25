@@ -43,7 +43,7 @@ function Home() {
                 ) : (
 
                     <div style={{
-                        width: "100vw",
+                        width: "100vw",                      
                         display: "flex",
                         flexDirection: "column",
                         alignItems: "center",
